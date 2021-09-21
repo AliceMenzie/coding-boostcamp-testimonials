@@ -52,7 +52,16 @@ body {
     background-size: contain;
     background-repeat: no-repeat;
     position: relative;
+}
 
+.reviewer-img.hidden {
+    display: none;
+}
+
+button {
+    text-decoration: none;
+    border: none;
+    background-color: white;
 }
 
 div.toggle-btn {
@@ -78,7 +87,6 @@ div.toggle-btn {
     
 }
 
-
 .review-content {
     color: var(--dark-blue);
     margin-top: 2rem;
@@ -90,9 +98,18 @@ div.toggle-btn {
     background-position: center top;
 } 
 
+.review-content.hidden {
+    display: none;
+
+}
+
 .reviewer-details {
     padding-bottom: 1rem;
     margin-bottom: 3rem;
+}
+
+.reviewer-details.hidden { 
+    display: none;
 }
 
 .reviewer-details strong {
@@ -119,9 +136,7 @@ div.toggle-btn {
 
 
 @media (min-width: 600px) {
-    /* body {
-        flex-direction: row;
-    } */
+    
     .card-container {
         min-width: 1500px;
         min-height: 1000px;
@@ -175,6 +190,7 @@ div.toggle-btn {
         padding-bottom: 0;
         margin: 0;
     }
+   
     .reviewer-details p {
         display: inline;
     }
