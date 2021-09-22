@@ -10,11 +10,8 @@ This is a solution to the [Coding bootcamp testimonials slider challenge on Fron
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -27,12 +24,15 @@ Users should be able to:
 - Navigate the slider using either their mouse/trackpad or keyboard
 
 ### Screenshot
+![Screen Shot 2021-09-22 at 12 25 41 pm](https://user-images.githubusercontent.com/73300606/134273802-7768cc0f-6a93-4000-a4d5-44ee43585c0e.png)
+
+![Screen Shot 2021-09-22 at 12 26 43 pm](https://user-images.githubusercontent.com/73300606/134273899-1f21ad00-1e22-4622-9f0b-3f939e959fe4.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code Solution](https://github.com/AliceMenzie/coding-boostcamp-testimonials)
+- Live Site URL: [Live Site](https://alicemenzie.github.io/coding-boostcamp-testimonials/)
 
 ## My process
 
